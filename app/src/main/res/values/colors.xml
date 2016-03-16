@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3fb568</color>
+    <color name="colorPrimaryDark">#579f30</color>
+    <color name="colorAccent">#fff540</color>
+    <color name="colorRoberto">#fff240</color>
+    <color name="actionLeon">#e0d31a</color>
+    <color name="roberto">#a19639</color>
+    <color name="black">#000000</color>
+</resources>
